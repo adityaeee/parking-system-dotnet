@@ -24,16 +24,16 @@ namespace ParkingSystem.Models {
           public void Leave (int slotNumber) {
                if (slotNumber >= 0 && slotNumber < totalSlots) {
                     slots[slotNumber] = null;
-                    Console.WriteLine($"Slot number {slotNumber} is free");
+                    // Console.WriteLine($"Slot number {slotNumber} is freee");
                }
           }
 
           public void Status () {
-                Console.WriteLine("Slot\tNo.\t\tType\tRegistration No\tColour");
+                Console.WriteLine("Slot\tNo.\t\tType\tColour");
 
                 for (int i = 0; i < totalSlots; i++) {
                     if(slots[i] != null) {
-                         Console.WriteLine($"{i + 1}\t{slots[i].RegistrationNumber}\t{slots[i].Type}\t{slots[i].RegistrationNumber}\t{slots[i].Color}");
+                         Console.WriteLine($"{i + 1}\t{slots[i].RegistrationNumber}\t{slots[i].Type}\t{slots[i].Color}");
                     }
                 }
           }

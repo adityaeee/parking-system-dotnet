@@ -26,3 +26,4 @@ C:\Aditya\BootCamp\Project\DotNet\ParkingSystem\obj\Debug\net8.0\refint\parking-
 C:\Aditya\BootCamp\Project\DotNet\ParkingSystem\obj\Debug\net8.0\parking-system.pdb
 C:\Aditya\BootCamp\Project\DotNet\ParkingSystem\obj\Debug\net8.0\parking-system.genruntimeconfig.cache
 C:\Aditya\BootCamp\Project\DotNet\ParkingSystem\obj\Debug\net8.0\ref\parking-system.dll
+C:\Aditya\BootCamp\Project\DotNet\ParkingSystem\obj\Debug\net8.0\parking-system.sourcelink.json

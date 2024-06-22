@@ -1,7 +1,8 @@
 # Parking System
 
 Sistem Parkir berbasis .NET 5  yang menggunakan console untuk mengelola tempat parkir. Sistem ini memungkinkan Anda untuk memarkir kendaraan, mencatat nomor polisi, jenis, dan warna kendaraan, serta menghasilkan laporan terkait penggunaan tempat parkir.
-_note: disini .NET di device saya terupdate menjadi versi 8, namun dalam pembuatannya masih menggunakan fitur .NET versi 5 sehingga masih relevan untuk di jalankan di tempat yang masih menggunakan .NET 5
+
+*note: disini .NET di device saya terupdate menjadi versi 8, namun dalam pembuatannya masih menggunakan fitur .NET versi 5 sehingga masih relevan untuk di jalankan di tempat yang masih menggunakan .NET 5
 
 ## Fitur
 
